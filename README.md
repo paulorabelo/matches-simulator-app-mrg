@@ -5,3 +5,5 @@ Repositório organizado em algumas branches que representam as implementações 
 
 1. Desenvolvimento Mobile Nativo Para Android
     - [release/dev-mobile-nativo-para-android](https://github.com/paulorabelo/matches-simulator-app-mrg/tree/release/dev-mobile-nativo-para-android)
+2. Componentes, Layouts e UI/UX Em Apps Android
+    - [release/componentes-layouts-ui-ux-em-apps-android](https://github.com/paulorabelo/matches-simulator-app-mrg/tree/release/componentes-layouts-ui-ux-em-apps-android)

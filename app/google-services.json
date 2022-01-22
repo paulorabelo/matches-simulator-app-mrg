@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "904292527623",
+    "project_id": "simulator-mrg-dio-sportheca",
+    "storage_bucket": "simulator-mrg-dio-sportheca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904292527623:android:bd1b4b2f3c0b2a6c5f04a2",
+        "android_client_info": {
+          "package_name": "br.com.mrgsoft.simulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904292527623-ii72tf4psg92uqu867cidrnto7ikvdfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADjPN7XmKi-NI5A1cSm2cYv9QuUMX1yYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904292527623-ii72tf4psg92uqu867cidrnto7ikvdfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -9,3 +9,5 @@ Repositório organizado em algumas branches que representam as implementações 
     - [release/componentes-layouts-ui-ux-em-apps-android](https://github.com/paulorabelo/matches-simulator-app-mrg/tree/release/componentes-layouts-ui-ux-em-apps-android)
 3. Java e Kotlin Juntos!? Construindo Apps Android
     - [release/java-e-kotlin-juntos-construindo-apps-android](https://github.com/paulorabelo/matches-simulator-app-mrg/tree/release/java-e-kotlin-juntos-construindo-apps-android)
+4. Explorando o Firebase Para Apps Android Resilientes
+    - [release/explorando-o-firebase-para-apps-android-resilientes](https://github.com/paulorabelo/matches-simulator-app-mrg/tree/release/explorando-o-firebase-para-apps-android-resilientes)
